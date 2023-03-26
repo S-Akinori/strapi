@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test_locals",
+  "info": {
+    "singularName": "test-local",
+    "pluralName": "test-locals",
+    "displayName": "TestLocal"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
