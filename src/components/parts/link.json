@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_parts_links",
+  "info": {
+    "displayName": "Link",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "target": {
+      "type": "string"
+    }
+  }
+}
