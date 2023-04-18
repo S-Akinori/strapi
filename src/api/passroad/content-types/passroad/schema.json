@@ -34,11 +34,6 @@
         "audios"
       ]
     },
-    "link": {
-      "type": "component",
-      "repeatable": false,
-      "component": "parts.link"
-    },
     "progress": {
       "type": "integer",
       "required": true
