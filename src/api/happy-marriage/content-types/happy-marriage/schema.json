@@ -38,11 +38,6 @@
     },
     "description": {
       "type": "text"
-    },
-    "link": {
-      "type": "component",
-      "repeatable": false,
-      "component": "parts.link"
     }
   }
 }
