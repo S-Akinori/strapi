@@ -20,10 +20,6 @@
       "type": "richtext",
       "required": true
     },
-    "slug": {
-      "type": "uid",
-      "required": true
-    },
     "thumbnail": {
       "type": "media",
       "multiple": false,
@@ -45,6 +41,11 @@
       "type": "component",
       "repeatable": false,
       "component": "common.link"
+    },
+    "slug": {
+      "type": "string",
+      "required": true,
+      "unique": false
     }
   }
 }
